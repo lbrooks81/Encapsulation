@@ -1,6 +1,6 @@
 ﻿/*
- * Name: [YOUR NAME HERE]
- * South Hills Username: [YOUR SOUTH HILLS USERNAME HERE]
+ * Name: Logan Brooks
+ * South Hills Username: lbrooks81
  */
 
 namespace SchoolManagementSystem
