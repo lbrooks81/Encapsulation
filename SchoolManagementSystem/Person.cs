@@ -20,5 +20,9 @@ namespace SchoolManagementSystem
             Gender = gender;
             Age = age;
         }
+        public void DisplayInfo()
+        {
+            Console.WriteLine($"{LName}, {FName} | Age: {Age} | Gender: {Gender}");
+        }
     }
 }
